@@ -1,3 +1,4 @@
+# Week 1 - Understand the Business project
 E-Commerce Order Management Database System
 
  Project Overview
