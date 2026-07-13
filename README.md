@@ -1,5 +1,3 @@
-# Week-1
-
 E-Commerce Order Management Database System
 
  Project Overview
@@ -85,7 +83,6 @@ Constraints
 This project provides a structured approach to designing a database system for e-commerce operations. It ensures efficient data management, improved accuracy, and better decision-making.
 
 
-# Week-2
 
 # Week 2 – Entity and Relationship Analysis
 
